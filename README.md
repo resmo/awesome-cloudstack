@@ -8,6 +8,8 @@ A curated list of bookmarks, packages, tutorials, videos and other cool resource
 - [Command Line Interface Clients](#cli)
 - [Configuration Management Integrations](#cfgmgmt)
 - [Libraries](#libs)
+- [Billing](#billing)
+- [Monitoring](#monitoring)
 - [Articles, Tutorials, Blogs, etc.](#articles-tutorials-blogs-etc)
 - [Videos](#videos)
 - [Conferences](#conferences)
