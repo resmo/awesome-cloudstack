@@ -52,6 +52,12 @@
 * [Ansible CloudStack Guide](http://docs.ansible.com/ansible/guide_cloudstack.html)
 * [Ansible Cloud Infra Role (Advanced Networking)](https://github.com/swisstxt/ansible-role-cloud-infra)
 
+### Terraform
+* [CloudStack Provider](https://www.terraform.io/docs/providers/cloudstack/)
+
+### Vagrant
+* [Vagrant Cloudstack Provider ](https://github.com/MissionCriticalCloud/vagrant-cloudstack)
+
 ## Libraries
 
 * [cs (Python)](https://github.com/exoscale/cs)
