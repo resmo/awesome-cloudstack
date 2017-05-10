@@ -119,5 +119,5 @@
 ## Community
 
 * [Mailing Lists](http://cloudstack.apache.org/mailing-lists.html)
-* [IRC](irc://irc.freenode.net/cloudstack)
+* IRC: `irc://irc.freenode.net/cloudstack`
 * [Slack](https://apachecloudstack.slack.com)
