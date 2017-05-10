@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/resmo/awesome-cloudstack.svg?branch=master)](https://travis-ci.org/resmo/awesome-cloudstack)
 # Awesome Apache CloudStack
 
-> A curated list of bookmarks, packages, tutorials, videos and other cool resources from the CloudStack ecosystem.
+> A curated list of bookmarks, projects, tutorials, videos and other cool resources from the CloudStack ecosystem.
 
 ## Table of Contents
 
@@ -127,3 +127,21 @@
 * [Mailing Lists](http://cloudstack.apache.org/mailing-lists.html)
 * IRC: `irc://irc.freenode.net/cloudstack`
 * [Slack](https://apachecloudstack.slack.com)
+
+## Contributing
+
+Found an awesome project, blog, video etc.? Send me a pull request!
+
+### Guidelines
+
+* Please make an individual pull request for each suggestion
+* Make sure the TravisCI tests pass on your pull request
+* Use the following format for links: \[Resource\]\(URL\)
+* Want to suggest a package? Read the [Contribution Guide](https://github.com/chiraggude/awesome-laravel/blob/master/CONTRIBUTING.md)
+* New categories or improvements to the existing categorization are welcome
+
+## License
+
+[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+Awesome CloudStack is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
