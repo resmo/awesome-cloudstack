@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/resmo/awesome-cloudstack.svg?branch=master)](https://travis-ci.org/resmo/awesome-cloudstack)
 # Awesome Apache CloudStack
 
 > A curated list of bookmarks, packages, tutorials, videos and other cool resources from the CloudStack ecosystem.
