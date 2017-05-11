@@ -43,6 +43,7 @@
 * [Apache Cloudmonkey (Python)](https://github.com/apache/cloudstack-cloudmonkey)
 * [cloudstack-cli (Ruby)](https://github.com/niwo/cloudstack-cli)
 * [cs (Python)](https://github.com/exoscale/cs)
+* [go-cloudstack](https://github.com/xanzy/go-cloudstack)
 
 
 ## Configuration Management Integrations
