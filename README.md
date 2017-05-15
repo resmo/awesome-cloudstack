@@ -11,6 +11,7 @@
 - [Configuration Management Integrations](#configuration-management-integrations)
 - [Libraries](#libraries)
 - [Operational Extensions](#operational-extensions)
+- [Public Cloud Providers](#public-cloud-providers)
 - [Videos](#videos)
 - [Articles, Tutorials, Blogs, etc.](#articles-tutorials-blogs-etc)
 - [Development](#development)
@@ -98,6 +99,13 @@
 
 * [CloudStack Chaos Monkey](https://github.com/resmo/cloudstack-chaosmonkey)
 * [Alternative CloudStack-UI by Bitworks Software, Ltd.](https://bwsw.github.io/cloudstack-ui/)
+
+## Public Cloud Providers
+
+* [Exoscale](https://www.exoscale.ch)
+* [Ikoula](https://www.ikoula.com/en)
+* [Interoute](https://cloudstore.interoute.com/)
+* [PCextreme](https://www.pcextreme.com/)
 
 ## Videos
 
