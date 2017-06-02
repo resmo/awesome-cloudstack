@@ -63,7 +63,7 @@
 ## Libraries
 
 * [cs (Python)](https://github.com/exoscale/cs)
-* [go-cloudtack (Go)](https://github.com/xanzy/go-cloudstack)
+* [go-cloudstack (Go)](https://github.com/xanzy/go-cloudstack)
 * [golang-cloudstack-library (Go)](https://github.com/atsaki/golang-cloudstack-library)
 * [cloudstack-php (PHP)](https://github.com/PCextreme/cloudstack-php)
 * [cloudstack_client (Ruby)](https://github.com/niwo/cloudstack_client)
