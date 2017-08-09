@@ -80,7 +80,7 @@
 
 * [CloudStack Nagios Montitoring by SWISS TXT](https://github.com/swisstxt/cloudstack-nagios)
 * [collectd-cloudstack plugin](https://github.com/exoscale/collectd-cloudstack)
-* [CloudstackStats into InfluxDB](https://github.com/niwo/cloudstack_stats)
+* [CloudStack statistics into InfluxDB](https://github.com/niwo/cloudstats)
 
 ### RealHostIP replacement
 
