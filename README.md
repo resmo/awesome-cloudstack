@@ -40,8 +40,6 @@
 * [Instance Templates Packer by PCextreme](https://github.com/PCextreme/packer-templates)
 
 
-
-
 ## Command Line Interface Clients
 
 * [Apache Cloudmonkey (Python)](https://github.com/apache/cloudstack-cloudmonkey)
