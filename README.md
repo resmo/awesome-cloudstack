@@ -36,7 +36,8 @@
 
 * [Pre-Build Instance Templates](http://dl.openvm.eu/cloudstack/)
 * [SystemVM Packer](https://github.com/MissionCriticalCloud/systemvm-packer)
-* [Instance Templates Packer](https://github.com/MissionCriticalCloud/bubble-templates-packer)
+* [Instance Templates Packer by Schuberg Philis](https://github.com/MissionCriticalCloud/bubble-templates-packer)
+* [Instance Templates Packer by PCextreme](https://github.com/PCextreme/packer-templates)
 
 
 ## Command Line Interface Clients
