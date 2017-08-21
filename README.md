@@ -79,13 +79,13 @@
 
 ### Montitoring and Graphs
 
-* [CloudStack Nagios Montitoring by SWISS TXT](https://github.com/swisstxt/cloudstack-nagios)
-* [collectd-cloudstack plugin](https://github.com/exoscale/collectd-cloudstack)
-* [CloudStack statistics into InfluxDB](https://github.com/niwo/cloudstats)
+* [CloudStack Nagios Monitoring by SWISS TXT](https://github.com/swisstxt/cloudstack-nagios)
+* [collectd-cloudstack Plugin](https://github.com/exoscale/collectd-cloudstack)
+* [CloudStack Statistics into InfluxDB](https://github.com/niwo/cloudstats)
 
 ### RealHostIP replacement
 
-* [nip.io fork for realhostip service](https://github.com/resmo/nip.io)
+* [nip.io fork for realhostip compatible service](https://github.com/resmo/nip.io)
 * [powerdns-cloudstack-proxy-dns](https://github.com/terbolous/powerdns-cloudstack-proxy-dns)
 
 ### Billing Solutions
