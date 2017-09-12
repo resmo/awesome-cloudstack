@@ -73,6 +73,7 @@
 * [apache-cloudstack-java-client (Java)](https://github.com/Autonomiccs/apache-cloudstack-java-client)
 * [apache-cloudstack-javascript-client
 (JavaScript)](https://github.com/Autonomiccs/apache-cloudstack-javascript-client)
+* [.NET SDK for CloudStack](https://github.com/richardlawley/cloudstack.net)
 
 
 ## Operational Extensions
