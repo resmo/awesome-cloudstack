@@ -66,6 +66,7 @@
 * [cs (Python)](https://github.com/exoscale/cs)
 * [go-cloudstack (Go)](https://github.com/xanzy/go-cloudstack)
 * [golang-cloudstack-library (Go)](https://github.com/atsaki/golang-cloudstack-library)
+* [cloudstack PHP Client (PHP - ACS 4.10 compatible)](https://github.com/myENA/cloudstack-php-client)
 * [cloudstack-php (PHP)](https://github.com/PCextreme/cloudstack-php)
 * [cloudstack_client (Ruby)](https://github.com/niwo/cloudstack_client)
 * [Apache libcloud (Python)](https://libcloud.apache.org/)
