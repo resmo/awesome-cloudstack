@@ -135,6 +135,12 @@
 * [Trillian](https://github.com/shapeblue/Trillian)
 * [bubble-blueprint](https://github.com/MissionCriticalCloud/bubble-blueprint)
 
+### Build with Docker
+
+* [RPM Builder](https://github.com/khos2ow/cloudstack-rpm-builder)
+* [DEB Builder](https://github.com/khos2ow/cloudstack-deb-builder)
+* [SystemVM Builder](https://github.com/khos2ow/cloudstack-systemvm-builder)
+
 ## Community
 
 * [Mailing Lists](http://cloudstack.apache.org/mailing-lists.html)
