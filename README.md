@@ -97,7 +97,6 @@
 * [StratoSTACK](http://stratostack.org/)
 * [Cyclops](icclab.github.io/cyclops/)
 
-
 ### Misc
 
 * [CloudStack Chaos Monkey](https://github.com/resmo/cloudstack-chaosmonkey)
@@ -129,6 +128,10 @@
 
 * [GitHub](https://github.com/apache/cloudstack)
 * [Apache CloudStack Issue Tracker](https://issues.apache.org/jira/browse/CLOUDSTACK)
+
+### Development Environment
+
+* [MonkeyBox - nested VM based CloudStack development](https://github.com/rhtyd/monkeybox)
 
 ### Continuous Integrations
 
