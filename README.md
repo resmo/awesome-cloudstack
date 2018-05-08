@@ -127,7 +127,8 @@
 ### Main
 
 * [GitHub](https://github.com/apache/cloudstack)
-* [Apache CloudStack Issue Tracker](https://issues.apache.org/jira/browse/CLOUDSTACK)
+* [Apache CloudStack Issue Tracker - GitHub](https://github.com/apache/cloudstack/issues)
+* [Apache CloudStack Issue Tracker - Jira (retired)](https://issues.apache.org/jira/browse/CLOUDSTACK)
 
 ### Development Environment
 
