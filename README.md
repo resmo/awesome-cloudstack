@@ -34,7 +34,7 @@
 
 ### Templates
 
-* [Pre-Build Instance Templates](http://dl.openvm.eu/cloudstack/)
+* [Pre-Built Instance Templates](http://dl.openvm.eu/cloudstack/)
 * [SystemVM Packer](https://github.com/MissionCriticalCloud/systemvm-packer)
 * [Instance Templates Packer by Schuberg Philis](https://github.com/MissionCriticalCloud/bubble-templates-packer)
 * [Instance Templates Packer by PCextreme](https://github.com/PCextreme/packer-templates)
@@ -75,7 +75,7 @@
 * [apache-cloudstack-javascript-client
 (JavaScript)](https://github.com/Autonomiccs/apache-cloudstack-javascript-client)
 * [.NET SDK for CloudStack](https://github.com/richardlawley/cloudstack.net)
-
+* [vhd-util for manipulating Xen VHDs](https://github.com/NuxRo/vhd-util)
 
 ## Operational Extensions
 
@@ -107,6 +107,7 @@
 * [Exoscale](https://www.exoscale.ch)
 * [Ikoula](https://www.ikoula.com/en)
 * [Interoute](https://cloudstore.interoute.com/)
+* [LeaseWeb](https://www.leaseweb.com/)
 * [PCextreme](https://www.pcextreme.com/)
 
 ## Videos
