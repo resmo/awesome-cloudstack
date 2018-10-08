@@ -95,7 +95,7 @@
 * [HostBill (commercial)](http://hostbillapp.com/feature/cloudstack-overview/)
 * [Amysta (commercial)](http://www.amysta.com/)
 * [StratoSTACK](http://stratostack.org/)
-* [Cyclops](icclab.github.io/cyclops/)
+* [Cyclops](https://icclab.github.io/cyclops/)
 
 ### Misc
 
