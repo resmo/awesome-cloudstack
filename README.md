@@ -24,7 +24,6 @@
 * [CloudStack Installation Guide](http://docs.cloudstack.apache.org/projects/cloudstack-installation/)
 * [CloudStack API Reference](http://cloudstack.apache.org/api.html)
 
-
 ## Packages and Templates
 
 ### Installation Packages
@@ -101,7 +100,6 @@
 
 * [CloudStack Chaos Monkey](https://github.com/resmo/cloudstack-chaosmonkey)
 * [Alternative CloudStack-UI by Bitworks Software, Ltd.](https://bwsw.github.io/cloudstack-ui/)
-* [Cloudstack Cloud Controller Manager for Kubernetes](https://github.com/swisstxt/cloudstack-cloud-controller-manager)
 
 ## Public Cloud Providers
 
