@@ -6,7 +6,7 @@
 ## Table of Contents
 
 - [Essentials](#essentials)
-- [Packages and Images](#packages-and-images)
+- [Packages and Images](#packages-and-templates)
 - [Command Line Interface Clients](#command-line-interface-clients)
 - [Configuration Management Integrations](#configuration-management-integrations)
 - [Libraries](#libraries)
@@ -101,6 +101,7 @@
 
 * [CloudStack Chaos Monkey](https://github.com/resmo/cloudstack-chaosmonkey)
 * [Alternative CloudStack-UI by Bitworks Software, Ltd.](https://bwsw.github.io/cloudstack-ui/)
+* [Cloudstack Cloud Controller Manager for Kubernetes](https://github.com/swisstxt/cloudstack-cloud-controller-manager)
 
 ## Public Cloud Providers
 
