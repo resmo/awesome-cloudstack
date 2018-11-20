@@ -75,6 +75,7 @@
 (JavaScript)](https://github.com/Autonomiccs/apache-cloudstack-javascript-client)
 * [.NET SDK for CloudStack](https://github.com/richardlawley/cloudstack.net)
 * [vhd-util for manipulating Xen VHDs](https://github.com/NuxRo/vhd-util)
+* [Cloudstack API for the Kotlin language (Kotlin)](https://github.com/nfrankel/cloudstack-api)
 
 ## Operational Extensions
 
