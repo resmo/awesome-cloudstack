@@ -46,7 +46,6 @@
 * [cs (Python)](https://github.com/exoscale/cs)
 * [go-cloudstack](https://github.com/xanzy/go-cloudstack)
 
-
 ## Configuration Management Integrations
 
 ### Ansible
@@ -76,6 +75,7 @@
 * [.NET SDK for CloudStack](https://github.com/richardlawley/cloudstack.net)
 * [vhd-util for manipulating Xen VHDs](https://github.com/NuxRo/vhd-util)
 * [Cloudstack API for the Kotlin language (Kotlin)](https://github.com/nfrankel/cloudstack-api)
+* [cloudstack.sh (minimal bash implementation)](https://gist.github.com/keithseahus/6201354)
 
 ## Operational Extensions
 
@@ -118,6 +118,7 @@
 
 ## Articles, Tutorials, Blogs, etc
 
+* [Wikipedia Article](https://en.wikipedia.org/wiki/Apache_CloudStack)
 * [ShapeBlue Blog](http://www.shapeblue.com/blog/)
 * [Remi Bergsma's blog](https://blog.remibergsma.com/tag/cloudstack-2/)
 * [shankerbalan.net](https://shankerbalan.net/)
