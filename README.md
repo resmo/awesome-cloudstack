@@ -49,12 +49,11 @@
 ## Configuration Management Integrations
 
 ### Ansible
-* [Ansible CloudStack Modules (built-in)](http://docs.ansible.com/ansible/list_of_cloud_modules.html#cloudstack)
-* [Ansible CloudStack Guide](http://docs.ansible.com/ansible/guide_cloudstack.html)
+* [Ansible CloudStack Integration](https://docs.ansible.com/ansible/latest/collections/ngine_io/cloudstack/index.html)
 * [Ansible Cloud Infra Role (Advanced Networking)](https://github.com/swisstxt/ansible-role-cloud-infra)
 
 ### Terraform
-* [CloudStack Provider](https://www.terraform.io/docs/providers/cloudstack/)
+* [CloudStack Provider](https://github.com/apache/cloudstack-kubernetes-provider)
 
 ### Vagrant
 * [Vagrant Cloudstack Provider ](https://github.com/MissionCriticalCloud/vagrant-cloudstack)
@@ -104,7 +103,7 @@
 
 ## Public Cloud Providers
 
-* [Exoscale](https://www.exoscale.ch)
+* [Exoscale](https://www.exoscale.com)
 * [Ikoula](https://www.ikoula.com/en)
 * [Interoute](https://cloudstore.interoute.com/)
 * [LeaseWeb](https://www.leaseweb.com/)
