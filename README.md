@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/resmo/awesome-cloudstack.svg?branch=master)](https://travis-ci.org/resmo/awesome-cloudstack)
+![Build Status](https://github.com/resmo/awesome-cloudstack/actions/workflows/main.yml/badge.svg)
+
 # Awesome Apache CloudStack
 
 > A curated list of bookmarks, projects, tutorials, videos and other cool resources from the CloudStack ecosystem.
@@ -17,12 +18,11 @@
 - [Development](#development)
 - [Community](#community)
 
-
 ## Essentials
 
-* [Apache CloudStack](http://cloudstack.apache.org/)
-* [CloudStack Installation Guide](http://docs.cloudstack.apache.org/projects/cloudstack-installation/)
-* [CloudStack API Reference](http://cloudstack.apache.org/api.html)
+* [Apache CloudStack](https://cloudstack.apache.org/)
+* [CloudStack Installation Guide](http://docs.cloudstack.apache.org/en/latest/installguide/)
+* [CloudStack API Reference](https://cloudstack.apache.org/api.html)
 
 ## Packages and Templates
 
@@ -74,7 +74,6 @@
 * [.NET SDK for CloudStack](https://github.com/richardlawley/cloudstack.net)
 * [vhd-util for manipulating Xen VHDs](https://github.com/NuxRo/vhd-util)
 * [Cloudstack API for the Kotlin language (Kotlin)](https://github.com/nfrankel/cloudstack-api)
-* [cloudstack.sh (minimal bash implementation)](https://gist.github.com/keithseahus/6201354)
 
 ## Operational Extensions
 
@@ -93,19 +92,18 @@
 
 * [HostBill (commercial)](http://hostbillapp.com/feature/cloudstack-overview/)
 * [Amysta (commercial)](http://www.amysta.com/)
-* [StratoSTACK](http://stratostack.org/)
 * [Cyclops](https://icclab.github.io/cyclops/)
 
 ### Misc
 
-* [CloudStack Chaos Monkey](https://github.com/resmo/cloudstack-chaosmonkey)
+* [Chaotic - Chaos for Clouds](https://github.com/ngine-io/chaotic)
+* [Scalr - Autoscaling for Clouds](https://github.com/ngine-io/scalr)
 * [Alternative CloudStack-UI by Bitworks Software, Ltd.](https://bwsw.github.io/cloudstack-ui/)
 
 ## Public Cloud Providers
 
 * [Exoscale](https://www.exoscale.com)
 * [Ikoula](https://www.ikoula.com/en)
-* [Interoute](https://cloudstore.interoute.com/)
 * [LeaseWeb](https://www.leaseweb.com/)
 * [PCextreme](https://www.pcextreme.com/)
 
@@ -114,14 +112,12 @@
 * [Introduction to Apache CloudStack by David Nalley](https://www.youtube.com/watch?v=1MDLg-wxB6g)
 * [CloudOps Channel](https://www.youtube.com/channel/UC0FMV0TSW6jvSRGC26r4-Gw)
 
-
 ## Articles, Tutorials, Blogs, etc
 
 * [Wikipedia Article](https://en.wikipedia.org/wiki/Apache_CloudStack)
-* [ShapeBlue Blog](http://www.shapeblue.com/blog/)
+* [ShapeBlue Blog](https://www.shapeblue.com/blog/)
 * [Remi Bergsma's blog](https://blog.remibergsma.com/tag/cloudstack-2/)
 * [shankerbalan.net](https://shankerbalan.net/)
-
 
 ## Development
 
@@ -149,7 +145,7 @@
 ## Community
 
 * [Mailing Lists](http://cloudstack.apache.org/mailing-lists.html)
-* IRC: `irc://irc.freenode.net/cloudstack`
+* IRC: `irc://irc.libera.chat/cloudstack`
 * [Slack](https://apachecloudstack.slack.com)
 
 ## Contributing
