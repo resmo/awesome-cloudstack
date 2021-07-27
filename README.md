@@ -140,7 +140,6 @@
 
 * [RPM Builder](https://github.com/khos2ow/cloudstack-rpm-builder)
 * [DEB Builder](https://github.com/khos2ow/cloudstack-deb-builder)
-* [SystemVM Builder](https://github.com/khos2ow/cloudstack-systemvm-builder)
 
 ## Community
 
